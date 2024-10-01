@@ -19,3 +19,13 @@ Install the requirements from "reqs.txt"
 
 run python eval_clip.py
 
+## Please Cite
+```
+@inproceedings{santos2024leveraging,
+  title={Leveraging LLMs for On-the-fly Instruction Guided Image Editing},
+  author={Santos, Rodrigo  and Silva, Jo{\~a}o and Branco, Ant{\'o}nio},
+  booktitle={EPIA Conference on Artificial Intelligence},
+  year={2024},
+  organization={Springer}
+}
+```
